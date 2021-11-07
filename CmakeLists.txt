@@ -24,6 +24,8 @@ add_subdirectory(tst)
 #but the label GOOGLETEST_VERSION is used and not declared, so I added
 #it in another folder called lib/googletest and include it in the 
 #whole project
+#####################################################################
+
 add_subdirectory(lib/googletest)
 
  
