@@ -11,12 +11,12 @@ int main()
 
     CParagraph paragraph;
     paragraph.TraverseParagraph(source);
-
+    
     cout << endl << "The modified paragraph is:" << endl << source << endl;
-	cout << endl << "Insert a key and Enter to finish..." << endl;
-	
-	char x{};
-	cin >> x;
+    cout << endl << "Insert a key and Enter to finish..." << endl;
+    
+    char x{};
+    cin >> x;
 
     return 0;
 }
