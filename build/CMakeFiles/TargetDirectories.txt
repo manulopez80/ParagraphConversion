@@ -1,0 +1,13 @@
+C:/ejercicio_verbio/exercise/build/CMakeFiles/edit_cache.dir
+C:/ejercicio_verbio/exercise/build/CMakeFiles/rebuild_cache.dir
+C:/ejercicio_verbio/exercise/build/src/CMakeFiles/rebuild_cache.dir
+C:/ejercicio_verbio/exercise/build/src/CMakeFiles/ExerciseParagraph_run.dir
+C:/ejercicio_verbio/exercise/build/src/CMakeFiles/ExerciseParagraph_lib.dir
+C:/ejercicio_verbio/exercise/build/src/CMakeFiles/edit_cache.dir
+C:/ejercicio_verbio/exercise/build/tst/CMakeFiles/ExerciseParagraph_tst.dir
+C:/ejercicio_verbio/exercise/build/tst/CMakeFiles/edit_cache.dir
+C:/ejercicio_verbio/exercise/build/tst/CMakeFiles/rebuild_cache.dir
+C:/ejercicio_verbio/exercise/build/lib/googletest/CMakeFiles/gtest.dir
+C:/ejercicio_verbio/exercise/build/lib/googletest/CMakeFiles/gtest_main.dir
+C:/ejercicio_verbio/exercise/build/lib/googletest/CMakeFiles/edit_cache.dir
+C:/ejercicio_verbio/exercise/build/lib/googletest/CMakeFiles/rebuild_cache.dir

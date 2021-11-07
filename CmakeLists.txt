@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 3.5)
+project(ExerciseParagraph)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(src)
+
+add_subdirectory(src)
+add_subdirectory(tst)
+
+#####################################################################
+#It is better to download the googletest library here directly, 
+#for example:
+#
+#include(ExternalProject)
+#ExternalProject_Add(gtest
+#  URL https://github.com/google/googletest/archive/release-1.8.0.zip
+# 
+#  PREFIX ${CMAKE_CURRENT_BINARY_DIR}/gtest
+#  INSTALL_COMMAND ""
+#)
+#ExternalProject_Get_Property(gtest source_dir binary_dir)
+#
+#but the label GOOGLETEST_VERSION is used and not declared, so I added
+#it in another folder called lib/googletest and include it in the 
+#whole project
+add_subdirectory(lib/googletest)
+
+ 
